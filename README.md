@@ -1,3 +1,4 @@
 # hello-world
 First repository
-Firt repository here, yeah baby! Gitty Rick!Burp.
+Yeah baby! Gitty Rick!!!!Burp.
+Gitty Ricky from now on!
